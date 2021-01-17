@@ -105,13 +105,3 @@ function App() {
 }
 
 export default App;
-
-
-
-
-
-
-
-
-//////// notes
-// now we get the API key from open weather maps
